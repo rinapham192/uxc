@@ -50,3 +50,4 @@ description = "A unified CLI for discovering and invoking tools across OpenAPI, 
 # clarify the control flow
 # clarify the control flow
 # avoid re-reading the config on every call
+# guard against empty input
